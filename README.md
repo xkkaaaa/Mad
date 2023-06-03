@@ -1,17 +1,16 @@
-### Mad Devs - Slider
+## Mad Devs - Slider
 
+### Указания по запуску
 
+1. нажмите 'Go Live'
+   или
+2. откройте папку 'index.html'
 
-## Указания по запуску
-
-нажмите 'Go Live'
-или
-откройте папку 'index.html'
 
 
 // прочее
-## Для компиляции JS => TS
+### Для компиляции JS => TS
 
-tsc src/index.ts -t ES6
-или
-tsc src/index.ts
+1. tsc src/index.ts -t ES6
+   или
+2. tsc src/index.ts
